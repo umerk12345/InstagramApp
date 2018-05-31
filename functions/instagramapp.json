@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "instagramapp-1527402504760",
+  "private_key_id": "61ecb7531c654d9cb76267c7dafa7c79026f7cd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCq8ShJg1tXTmoL\ndS7c0BmH0bXGYO6bnpAIB1FHOKgD4PecGu++g/R+AJWWNdcUAKEk/efANzkBJLDk\n8lCDZTVobndcI6Rok3QKp8Z2TSbPItGhAZ7vaG/RBjOsJiZD/+8zpRe9wcZy8e7x\nltDsIjxAt4W4I4Dn/O/ZHSVj42amQcWwDa8j0qxQ8khLcmOIiyeM9YoczfyxMQ2p\nwK0nsQlA5tqmdAFeWKeEkF9ndbO8mYpN3cNzeBZMtz2o8V0/vc/9CuwY9HacOJg+\newur2uVHhYLRbB5i8Q1dK1yYLr7AEUk6UUXGttOBM1spnu3SKoNOo93Dge4+G7CT\nToVRj2BNAgMBAAECggEAB3V0Pmazn44CFRrnl/ShtBvx7USIf3fv5iqsBEpF29l3\n8qSi6fJ9QoUekApI0WGsGCWeELup5tGXiGFv6gkm47YlypbvxNe3JuZRGS/Qg07v\nzCMzW1QjNjnUcJeU4mokL4ymiiic4RPgLpl0WQ+SeLH+pd0w8gPG4Wlp/k2grg70\nC79h4F8XF+qtgsoJqZV2on7PVOfKDCQXSRakA0e31DGiV1OGoVK6uhNDwC3bFLK/\nSfkO2TkMbD2ygYF21JRRGJdlERIZ9PmXBbZ7sFR5MJLyo0DmS+H33a2sSshvz4X0\n0BZGdYsOU43XJ5Ns9YdJE28SiggkyqrC70wtlI/UnwKBgQDWcqpnfvIrKNvVuz68\n7OkUls78/9WCCsHlR2txRqAK4gBVNvfhi1OBDQuInrr2DV17ShBLmeY9QYizjxLQ\nxVfUOVSQdsOpfGzBLnOpec+zS+Kzpasi21woX4IDBXWI0tKHFK3rNQPLTsC9CW2q\nKwLaqzLgv+9/pBR+hW7JawfXTwKBgQDMEHQwRA+qjN2tPk3XLEznTZMNoi3xelJs\nLnTJW1+ay2kEbAUyhe8McXZDK9YgZLFKK2zUWzpG0oDRircfq1vr24qFv0KwOzxY\nb3/R/HmKRJg2Ms2KhEzgSamru+iFHPTr/XHJ9icBYOZoEQfzjyQVWqGYuW0HAY5q\nVXPAMOfnowKBgQCxX9CgoDiwCDCk/SZsX8x+EisMypMP59Puz/8Hh7ISrlI2Kawo\nKvSbtm2GyDu+Dtn2gxEtZxMwMYdfdYTLl58I046lmwZFprvRoZlbYXyxQaA2lV4T\nC7uTTUQdOaO40x/9SNZ9yLDltbLn6OeDK+ZFdfs0OK1hNxcYe0diZBvtMwKBgQCk\noc2rNu3Qsc8SOsbABwyQO6SdBi+8tuwSPTSZUq+CCgNSvvc+eJGQX2WC8bXR8oqa\nBQjLFkKg6qlk5F2zHiON2FQcbV6XIWMhEet0dRV1OLv4Veo/i1ceSC+rznDcG615\nSsLnpkB3uz6HzN22YNBCrhjbRxWv5lCIdyJodsxRswKBgQCjE4b45OBJUybJ9sWc\nNiR9/+ThF40cfnWDEM7SUs/veQmPwfN24iv8czatyNUIl2F3MBoY+JA0MgFpFJ6/\nLMS3esACLlQWp9Ork7kT5TtZIEThXN3Y6YJA3Sq8jA/DTrrGKB0EgWe8sM9/zCyd\nst5XNE1HD2XVzSOSesEPHSajZQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-tjnue@instagramapp-1527402504760.iam.gserviceaccount.com",
+  "client_id": "107581486622007278269",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-tjnue%40instagramapp-1527402504760.iam.gserviceaccount.com"
+}

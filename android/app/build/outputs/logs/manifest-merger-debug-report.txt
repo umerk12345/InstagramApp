@@ -1,0 +1,343 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
+MERGED from [:react-native-vector-icons] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3d51744e6489215f008c7a860339da35/AndroidManifest.xml:2:1-15:12
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/0873750fa80fe0c591483ae54b7b9ca2/AndroidManifest.xml:2:1-14:12
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/04fff8b2417be282069b4fddf70683e8/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d8fc8d3cf73eac726f4d97cfd7901a2e/AndroidManifest.xml:17:1-31:12
+MERGED from [:react-native-maps] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27e26ef6a197fd4373869626373aee61/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:transition:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/578bd43ced538d75fa508eadabc2f0b0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5aa91ffa64b52a1a1cb73b6eaa32dc39/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/9b27fc1c5c6620a12fc294faf08ecfc3/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/dd300877c112541008d8832eb7034192/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/86c8f41a1652883553dac5a4b8ec427b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/76e81bb1394e19d5df560f4bbb8dad88/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/55f33181d18de8379ce0d8045e869601/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/96f031f9eb767c7c192c190912c18a02/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/eced1b5e926d8a0d5ecfab3cbd452841/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/166ace3e49e5a7816170b24fc7ed3dad/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/573a9f701ad3310e712346c662f9e2b8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6ca7777a21611b0ab4240879acdab7bd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/55b13d52d8135ad8eb3d52c006ce48de/AndroidManifest.xml:17:1-26:12
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/c61df03d2b6ce10edf7df0fd6ed5bb25/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2069869ca334ce660fdec08a0866cfa9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/48eb39cacfde296b66c3b9e6b8a04e61/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40d917f0b6481e8d0475bfce996f8f01/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/a4a2cf4965bdea6685bd911b91998ed0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6db6903c878a9ed5500d42779e4b2e3c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b1e9870039d49931161d5b629d15e6aa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d92d9bc64368fe28b5df6bc2154bd763/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:2:5-31
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3d51744e6489215f008c7a860339da35/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3d51744e6489215f008c7a860339da35/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
+MERGED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3d51744e6489215f008c7a860339da35/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3d51744e6489215f008c7a860339da35/AndroidManifest.xml:13:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/0873750fa80fe0c591483ae54b7b9ca2/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/0873750fa80fe0c591483ae54b7b9ca2/AndroidManifest.xml:12:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/04fff8b2417be282069b4fddf70683e8/AndroidManifest.xml:11:5-20
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/04fff8b2417be282069b4fddf70683e8/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d8fc8d3cf73eac726f4d97cfd7901a2e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d8fc8d3cf73eac726f4d97cfd7901a2e/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27e26ef6a197fd4373869626373aee61/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27e26ef6a197fd4373869626373aee61/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:transition:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/578bd43ced538d75fa508eadabc2f0b0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/578bd43ced538d75fa508eadabc2f0b0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5aa91ffa64b52a1a1cb73b6eaa32dc39/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5aa91ffa64b52a1a1cb73b6eaa32dc39/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/76e81bb1394e19d5df560f4bbb8dad88/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/76e81bb1394e19d5df560f4bbb8dad88/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/55f33181d18de8379ce0d8045e869601/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/55f33181d18de8379ce0d8045e869601/AndroidManifest.xml:2:3-17
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/96f031f9eb767c7c192c190912c18a02/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/96f031f9eb767c7c192c190912c18a02/AndroidManifest.xml:7:5-11:19
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/c61df03d2b6ce10edf7df0fd6ed5bb25/AndroidManifest.xml:12:5-20
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/c61df03d2b6ce10edf7df0fd6ed5bb25/AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2069869ca334ce660fdec08a0866cfa9/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2069869ca334ce660fdec08a0866cfa9/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/48eb39cacfde296b66c3b9e6b8a04e61/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/48eb39cacfde296b66c3b9e6b8a04e61/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40d917f0b6481e8d0475bfce996f8f01/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40d917f0b6481e8d0475bfce996f8f01/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/a4a2cf4965bdea6685bd911b91998ed0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/a4a2cf4965bdea6685bd911b91998ed0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6db6903c878a9ed5500d42779e4b2e3c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6db6903c878a9ed5500d42779e4b2e3c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b1e9870039d49931161d5b629d15e6aa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b1e9870039d49931161d5b629d15e6aa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d92d9bc64368fe28b5df6bc2154bd763/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d92d9bc64368fe28b5df6bc2154bd763/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:11:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:17:7-19:64
+	android:value
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:19:7-62
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:18:7-52
+activity#com.instagramapp.MainActivity
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:20:7-29:18
+	android:label
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:22:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:24:9-51
+	android:configChanges
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:23:9-79
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:21:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:25:9-28:25
+action#android.intent.action.MAIN
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:26:13-65
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:26:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:27:13-73
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:27:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:30:7-84
+MERGED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+MERGED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:30:17-81
+uses-sdk
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3d51744e6489215f008c7a860339da35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/3d51744e6489215f008c7a860339da35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/0873750fa80fe0c591483ae54b7b9ca2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-toolbar-1.5.4.aar/0873750fa80fe0c591483ae54b7b9ca2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/04fff8b2417be282069b4fddf70683e8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/04fff8b2417be282069b4fddf70683e8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d8fc8d3cf73eac726f4d97cfd7901a2e/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d8fc8d3cf73eac726f4d97cfd7901a2e/AndroidManifest.xml:21:5-23:78
+MERGED from [:react-native-maps] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27e26ef6a197fd4373869626373aee61/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.2.4.aar/27e26ef6a197fd4373869626373aee61/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/578bd43ced538d75fa508eadabc2f0b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/578bd43ced538d75fa508eadabc2f0b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5aa91ffa64b52a1a1cb73b6eaa32dc39/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5aa91ffa64b52a1a1cb73b6eaa32dc39/AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/9b27fc1c5c6620a12fc294faf08ecfc3/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/9b27fc1c5c6620a12fc294faf08ecfc3/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/dd300877c112541008d8832eb7034192/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/dd300877c112541008d8832eb7034192/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/86c8f41a1652883553dac5a4b8ec427b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/86c8f41a1652883553dac5a4b8ec427b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/76e81bb1394e19d5df560f4bbb8dad88/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/76e81bb1394e19d5df560f4bbb8dad88/AndroidManifest.xml:2:3-70
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/96f031f9eb767c7c192c190912c18a02/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/96f031f9eb767c7c192c190912c18a02/AndroidManifest.xml:5:5-43
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/eced1b5e926d8a0d5ecfab3cbd452841/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/eced1b5e926d8a0d5ecfab3cbd452841/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/166ace3e49e5a7816170b24fc7ed3dad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/166ace3e49e5a7816170b24fc7ed3dad/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/573a9f701ad3310e712346c662f9e2b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/573a9f701ad3310e712346c662f9e2b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6ca7777a21611b0ab4240879acdab7bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/6ca7777a21611b0ab4240879acdab7bd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/55b13d52d8135ad8eb3d52c006ce48de/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/55b13d52d8135ad8eb3d52c006ce48de/AndroidManifest.xml:20:5-43
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/c61df03d2b6ce10edf7df0fd6ed5bb25/AndroidManifest.xml:8:5-10:41
+MERGED from [com.balysv.materialmenu:material-menu:1.5.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/material-menu-1.5.4.aar/c61df03d2b6ce10edf7df0fd6ed5bb25/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2069869ca334ce660fdec08a0866cfa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2069869ca334ce660fdec08a0866cfa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/48eb39cacfde296b66c3b9e6b8a04e61/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/48eb39cacfde296b66c3b9e6b8a04e61/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40d917f0b6481e8d0475bfce996f8f01/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40d917f0b6481e8d0475bfce996f8f01/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/a4a2cf4965bdea6685bd911b91998ed0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/a4a2cf4965bdea6685bd911b91998ed0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6db6903c878a9ed5500d42779e4b2e3c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6db6903c878a9ed5500d42779e4b2e3c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b1e9870039d49931161d5b629d15e6aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b1e9870039d49931161d5b629d15e6aa/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d92d9bc64368fe28b5df6bc2154bd763/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d92d9bc64368fe28b5df6bc2154bd763/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml
+activity#com.reactnativenavigation.controllers.NavigationActivity
+ADDED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
+	android:configChanges
+		ADDED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-83
+	android:name
+		ADDED from [:react-native-navigation] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-84
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-image-picker/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:18:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d8fc8d3cf73eac726f4d97cfd7901a2e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/d8fc8d3cf73eac726f4d97cfd7901a2e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/578bd43ced538d75fa508eadabc2f0b0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/578bd43ced538d75fa508eadabc2f0b0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5aa91ffa64b52a1a1cb73b6eaa32dc39/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/5aa91ffa64b52a1a1cb73b6eaa32dc39/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/55b13d52d8135ad8eb3d52c006ce48de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/55b13d52d8135ad8eb3d52c006ce48de/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2069869ca334ce660fdec08a0866cfa9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/2069869ca334ce660fdec08a0866cfa9/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/48eb39cacfde296b66c3b9e6b8a04e61/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/48eb39cacfde296b66c3b9e6b8a04e61/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40d917f0b6481e8d0475bfce996f8f01/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/40d917f0b6481e8d0475bfce996f8f01/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/a4a2cf4965bdea6685bd911b91998ed0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/a4a2cf4965bdea6685bd911b91998ed0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6db6903c878a9ed5500d42779e4b2e3c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6db6903c878a9ed5500d42779e4b2e3c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b1e9870039d49931161d5b629d15e6aa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b1e9870039d49931161d5b629d15e6aa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d92d9bc64368fe28b5df6bc2154bd763/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d92d9bc64368fe28b5df6bc2154bd763/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/7dd206a6abb339d442dc88a04690d32a/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/umerkhan/Desktop/ReactNative/InstagramApp/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.2.4.aar/a1c0f2092fa97ce0f3c33b8c6738325a/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/684c068b5f645463c2c10b9d0384997e/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/96f031f9eb767c7c192c190912c18a02/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/96f031f9eb767c7c192c190912c18a02/AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.2.4] /Users/umerkhan/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.2.4.aar/b30d65e1fe67ebb6b1a0b00d920b2f6b/AndroidManifest.xml:20:20-65
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/umerkhan/Desktop/ReactNative/InstagramApp/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
